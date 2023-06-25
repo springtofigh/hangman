@@ -3,11 +3,11 @@
 
 Online guessing game for players
 
-[![Hangman-2](https://i.im.ge/2023/05/23/hF5UVW.Hangman-2.png)](https://im.ge/i/hF5UVW)
+![Hangman-2](https://github.com/springtofigh/hangman/assets/90114320/7ae80ea7-af60-4791-b3e3-32e4b0ca9c80)
 
 ## Screenshots
 
-[![Hangman-1](https://i.im.ge/2023/05/23/hF5ir0.Hangman-1.png)](https://im.ge/i/hF5ir0)
+![Hangman-1](https://github.com/springtofigh/hangman/assets/90114320/57f249bc-f101-42ae-8fbe-f00cb93b67ad)
 
 
 
